@@ -26,7 +26,7 @@ if place:
 
         if option == "Sky":
             # Dictionary matching filtered data with png names
-            images = {"Clear": "images/clear.png", "Clouds": "images/clouds.png",
+            images = {"Clear": "images/clear.png", "Clouds": "images/cloud.png",
                       "Rain": "images/rain.png", "Snow": "images/snow.png"}
 
             # For dictionary in data assign/replace with only the sky conditions
